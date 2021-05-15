@@ -1,7 +1,5 @@
-package GraphSearch;
+package Graph;
 
-
-import kotlin.Pair;
 import java.util.*;
 
 public class BFS {
