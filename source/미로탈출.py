@@ -1,5 +1,4 @@
 #source
-
 def set_input():
     height, width = map(int, input().split())
     output = []
